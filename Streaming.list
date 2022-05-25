@@ -232,7 +232,6 @@ USER-AGENT,Naver%20TV*
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,smartmediarep.com
 
-
 # GEOIP,NETFLIX,no-resolve
 # > niconico
 USER-AGENT,Niconico*
