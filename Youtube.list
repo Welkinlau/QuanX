@@ -1,6 +1,3 @@
-# > YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*
-USER-AGENT,YouTubeMusic*
 
 # > YouTube
 USER-AGENT,com.google.ios.youtube*
