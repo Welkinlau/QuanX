@@ -1,7 +1,3 @@
-# > YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*,Streaming
-USER-AGENT,YouTubeMusic*,Streaming
-
 # > YouTube
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTube*
@@ -17,3 +13,5 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
+USER-AGENT,com.google.ios.youtubemusic*,Streaming
+USER-AGENT,YouTubeMusic*,Streaming
