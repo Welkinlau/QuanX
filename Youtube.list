@@ -1,6 +1,6 @@
 # > YouTube
  
-USER-AGENT,YouTube*
+
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,youtu.be
@@ -14,4 +14,3 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
 
-USER-AGENT,YouTubeMusic*,Streaming
